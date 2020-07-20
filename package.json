@@ -1,0 +1,18 @@
+{
+  "name": "gd-checker",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.18.0"
+  },
+  "devDependencies": {
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
